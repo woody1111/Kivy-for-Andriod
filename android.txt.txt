@@ -1,0 +1,3 @@
+title=Calculator
+author=Woody
+orientation=portrait
