@@ -1,0 +1,56 @@
+2020-01-01 00:15,beverage,31.9,Octopus,Apple cider 
+2020-01-01 00:38,traffic,4.8,Octopus,Whampoa to HMT
+2020-01-01 13:15,catering,41,Octopus,Lunch@Fairwood
+2020-01-01 14:19,traffic,10.2,Octopus,HMT to TH
+2020-01-01 18:53,traffic,12.2,Octopus,CWB to SSP
+2020-01-01 20:25,catering,70,Payme,Dinner
+2020-01-01 20:28,traffic,6.4,Octopus,Ssp back home
+2020-01-02 09:07,traffic,10.2,Octopus,MTR to office
+2020-01-02 20:15,catering,100,Cash,What to eat@Central
+2020-01-02 20:36,traffic,9.8,Octopus,Bus from Central to hmt
+2020-01-03 08:27,traffic,9.8,Octopus,Bus to work
+2020-01-03 13:27,catering,62,Octopus,hanamusubi
+2020-01-03 20:25,traffic,9.8,Octopus,Central back home
+2020-01-04 15:15,catering,34,Octopus,tea@fairwood
+2020-01-04 23:30,catering,241,Credit Card,Sauna hot pot
+2020-01-05 11:45,traffic,8.5,Octopus,Bus to On Tai
+2020-01-05 13:24,traffic,6.9,Octopus,KT to Mk
+2020-01-05 16:50,entertainment ,328,Credit Card,Happy Hour K @ Red Mr
+2020-01-06 08:21,traffic,9.8,Octopus,Bus to work
+2020-01-06 10:19,misc,414,Payme,Protein
+2020-01-06 20:00,traffic,12.2,Octopus,MTR home
+2020-01-07 08:59,traffic,10.2,Octopus,MTR work
+2020-01-07 19:44,traffic,12.2,Octopus,MTR home
+2020-01-08 08:21,traffic,9.8,Octopus,Bus work
+2020-01-08 20:21,traffic,12.2,Octopus,Bus toto YMT
+2020-01-08 21:30,catering,55,Cash,Tam
+2020-01-09 09:00,traffic,10.2,Octopus,MTR work
+2020-01-09 20:08,traffic,2.6,Octopus,dingding to WanChai
+2020-01-09 21:30,catering,100,Cash,Taiwan Tree
+2020-01-09 21:36,traffic,9.8,Octopus,Bus Home
+2020-01-10 09:00,traffic,10.2,Octopus,MTR work
+2020-01-10 19:30,traffic,12.7,Octopus,MTR home
+2020-01-10 20:00,catering,48,Octopus,Dinner@fairwood
+2020-01-11 17:39,catering,55,Octopus,hot pot@fairwood
+2020-01-12 10:56,catering,32.5,Octopus,Bf@fairwood
+2020-01-12 14:56,traffic,7.5,Octopus,Bus to Klb
+2020-01-12 15:20,traffic,5.8,Octopus,Bus home
+2020-01-12 20:23,catering,554,Cash,Thaifood
+2020-01-13 08:20,traffic,9.8,Octopus,Bus work
+2020-01-13 20:22,traffic,9.8,Octopus,Bus home
+2020-01-13 20:52,catering,20.9,Octopus,chicken n shroom
+2020-01-14 08:21,traffic,9.8,Octopus,Bus work
+2020-01-14 19:42,traffic,14.6,Octopus,MTR LCK
+2020-01-14 20:00,misc,1500,Credit Card,washing machine
+2020-01-14 21:30,catering,100,Cash,captain ching
+2020-01-14 21:44,traffic,4.8,Octopus,LCK home
+2020-01-15 08:21,traffic,10.2,Octopus,mtr work
+2020-01-15 18:15,traffic,10,Octopus,MTR tst
+2020-01-15 21:39,catering,150,Cash,hot pot@tst
+2020-01-16 08:21,traffic,9.8,Octopus,Bus work
+2020-01-16 13:30,catering,102,Cash,lunch with Jones
+2020-01-16 19:35,traffic,12.2,Octopus,mtr mk
+2020-01-16 22:00,catering,223,Payme,CCK with excolleague
+2020-01-16 22:30,catering,34,Cash,dessert
+2020-01-17 08:21,traffic,9.8,Octopus,Bus work
+2020-01-17 20:15,traffic,9.8,Octopus,Bus home

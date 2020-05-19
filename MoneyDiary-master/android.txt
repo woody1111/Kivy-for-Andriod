@@ -1,0 +1,3 @@
+title=MoneyDiary
+author=Woody
+orientation=portrait
